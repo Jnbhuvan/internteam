@@ -1,1 +1,2 @@
 logout 1 feature
+logout 2 feature
